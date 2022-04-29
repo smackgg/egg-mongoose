@@ -1,5 +1,5 @@
 {
-  "name": "egg-mongoose",
+  "name": "egg-mongoose-smackgg",
   "version": "3.3.1",
   "description": "egg mongoose plugin",
   "eggPlugin": {
@@ -13,9 +13,8 @@
     "egg-plugin"
   ],
   "dependencies": {
-    "@types/mongoose": "^5.3.24",
     "await-first": "^1.0.0",
-    "mongoose": "^5.10.9"
+    "mongoose": "^6.3.1"
   },
   "devDependencies": {
     "autod": "^3.0.1",
